@@ -1,4 +1,4 @@
-from entsoe import EntsoePandasClient
+from entsoe import EntsoePandasClient # entsoe-py package
 import datetime as dt
 import pandas as pd
 import awswrangler as wr
